@@ -1,3 +1,24 @@
+body {
+  background-image: url(https://www.spacex.com/static/images/backgrounds/rideshare_feature.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  animation: moving 14s ease infinite;
+  background-position: center top; /* Imposta il posizionamento verticale in alto */
+  background-attachment: fixed;
+}
+
+@keyframes moving {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
 .App {
   text-align: center;
 }
