@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/equitas-frontend-tests/static/css/main.8e06ecbb.css",
+    "main.js": "/equitas-frontend-tests/static/js/main.9f09b33c.js",
+    "index.html": "/equitas-frontend-tests/index.html",
+    "main.8e06ecbb.css.map": "/equitas-frontend-tests/static/css/main.8e06ecbb.css.map",
+    "main.9f09b33c.js.map": "/equitas-frontend-tests/static/js/main.9f09b33c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e06ecbb.css",
+    "static/js/main.9f09b33c.js"
+  ]
+}
